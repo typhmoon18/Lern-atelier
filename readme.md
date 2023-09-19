@@ -42,4 +42,19 @@ Ich habe meinen projekt erfolgreich abgeschlossen. Es hat jetzt alle Eigenschaft
 - [ ] Neues Partnerprojekt überlegen 20'
 - [ ] Projekt koordinieren ( Aufteilung ) 40'
 - [ ]  Mit dem jeweiligen Projekteil beginnen zu programmieren rest der stunde
-- [ ] 
+
+##Reflexion 12.9
+Wir haben mit einem kleinen Storyspiel begonnen wo man mit der geschichte interagieren kann. Bsp was willst du rechts doer links abbiegen. je nach antwort geht die Gechichte anders weiter. Das Ziel ist es mehrere Sackgassen einzubauen und das ganze möglichst komplex zu  gestalten
+
+##Arbeitpaket 19.9
+- [x] 5 mal die geschichte erweitern bis zum 1sten Ende
+- [x] Einen Weiteren geschichtsteil beginnen
+- [x] 2 Sackgassen einbauen
+
+##Reflexion 19.9
+Wir haben unsere Zeit heute weniger gut genutzt. Dei Ziele wurden zwar erreicht, aber man hätte viel mehr raussholen können. Trotzdem konnte ich heute meine Geschichte deutlich weiter verstricken und auch ein paar switch cases einbauen. Auch können ich und Eldin gleichzeitig am gleichen coden.
+
+- [ ] 2 mehr  switch cases einbauen
+- [ ] etwas randomizen ( glück einbauen)
+- [ ] einmal tom gewinnen lassen (mehr humor einbauen)
+- [ ]
