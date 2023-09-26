@@ -10,7 +10,7 @@ das programm hat ein textfeld wo man ein bestimmtes keyword eingibt. Die keyword
 
 ## Arbeitspakete für 29.08.2023
 
-- [x] Funfacts und keyword suchen 45'bmw
+- [x] Funfacts und keyword suchen 45'
 - [x] imputs eingeben            45'+
 - [x] erste keywords hinzufügen 45'
 - [x] 1 funfact hinzufügen  45'
@@ -21,7 +21,7 @@ das programm hat ein textfeld wo man ein bestimmtes keyword eingibt. Die keyword
 | Programm in VS gestartet |     erde    |   dazu kenne ich keinen funfact| 
 
 ## reflexion
-ich habe heute alle meinn Ziele erreicht und habe sogar etwas zusätzlich hinzugefügt. Bis jetzt habe ich 5 Stichwörter erstellt und dazu auch die passenden antworten hinzuprogramiert. Ich hatte zuerst starke schwierigkeiten um das feld zu programieren wo die konsole fragt, ob man noch ein Keyword eingeben will. Schlussendlich war die lösung dann trotzdem ziemlich einfach.
+ich habe heute alle meine Ziele erreicht und habe sogar etwas zusätzlich hinzugefügt. Bis jetzt habe ich 5 Stichwörter erstellt und dazu auch die passenden antworten hinzuprogramiert. Ich hatte zuerst starke schwierigkeiten um das feld zu programieren wo die konsole fragt, ob man noch ein Keyword eingeben will. Schlussendlich war die lösung dann trotzdem ziemlich einfach.
 
 ## Arbeitspaket 5.9.23
 - [x] Dopppelt soviele Funfacts
@@ -54,7 +54,14 @@ Wir haben mit einem kleinen Storyspiel begonnen wo man mit der geschichte intera
 ##Reflexion 19.9
 Wir haben unsere Zeit heute weniger gut genutzt. Dei Ziele wurden zwar erreicht, aber man hätte viel mehr raussholen können. Trotzdem konnte ich heute meine Geschichte deutlich weiter verstricken und auch ein paar switch cases einbauen. Auch können ich und Eldin gleichzeitig am gleichen coden.
 
-- [ ] 2 mehr  switch cases einbauen
-- [ ] etwas randomizen ( glück einbauen)
-- [ ] einmal tom gewinnen lassen (mehr humor einbauen)
-- [ ]
+
+
+- [ ]mehr switch cases einbauen
+- [x]viele enden setzen (positiv/negativ)
+- [x]Witze einbauen
+## reflexion 26.9 
+Heute hab ich ziemlich gut gearbeitet. NUr habe ich bemerkt das es sich nicht mehr gross gelohnt hat dei geschichte weiterzuführen. Nun giebt es ein gutes Ende und sonst sind alle tödlich
+- 
+##Geschichte erstes Quartal
+Die ersten paar Male habe ich an meinem Funfact Generator gearbeitet. Mein zweites Projekt war dann eine kleine Geschichte, auf die man Einfluss nehmen konnte. Der Funfact Generator war für mich deutlich anspruchsvoller, da alle Codeteile neu waren. Bei der Geschichte liess ich mich immer deutlich schneller ablenken. Am besten ich probiere in der Zukunft ein bisschen mehr allein zu arbeiten, wie Ichs beim Funfact Generator gemacht habe. Richtig gelernt oder gearbeitet für andere Fächer habe ich nicht, wenn dann habe ich mir vor einer Prüfung kurz den Stoff angeschaut. Noch etwas an was ich arbeiten müsste, wäre das Einhalten von festen Plänen. Sonst hatte ich keine Probleme, hier im Lernatelier, meine Fähigkeiten im Programmieren zu verbessern.
+
