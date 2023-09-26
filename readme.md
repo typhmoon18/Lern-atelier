@@ -60,8 +60,9 @@ Wir haben unsere Zeit heute weniger gut genutzt. Dei Ziele wurden zwar erreicht,
 - [x]viele enden setzen (positiv/negativ)
 - [x]Witze einbauen
 ## reflexion 26.9 
+
 Heute hab ich ziemlich gut gearbeitet. NUr habe ich bemerkt das es sich nicht mehr gross gelohnt hat dei geschichte weiterzuführen. Nun giebt es ein gutes Ende und sonst sind alle tödlich
-- 
+
 ##Geschichte erstes Quartal
 Die ersten paar Male habe ich an meinem Funfact Generator gearbeitet. Mein zweites Projekt war dann eine kleine Geschichte, auf die man Einfluss nehmen konnte. Der Funfact Generator war für mich deutlich anspruchsvoller, da alle Codeteile neu waren. Bei der Geschichte liess ich mich immer deutlich schneller ablenken. Am besten ich probiere in der Zukunft ein bisschen mehr allein zu arbeiten, wie Ichs beim Funfact Generator gemacht habe. Richtig gelernt oder gearbeitet für andere Fächer habe ich nicht, wenn dann habe ich mir vor einer Prüfung kurz den Stoff angeschaut. Noch etwas an was ich arbeiten müsste, wäre das Einhalten von festen Plänen. Sonst hatte ich keine Probleme, hier im Lernatelier, meine Fähigkeiten im Programmieren zu verbessern.
 
