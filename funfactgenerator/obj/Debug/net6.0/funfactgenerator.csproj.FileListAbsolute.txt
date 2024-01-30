@@ -1,0 +1,14 @@
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\obj\Debug\net6.0\funfactgenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\obj\Debug\net6.0\funfactgenerator.AssemblyInfoInputs.cache
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\obj\Debug\net6.0\funfactgenerator.AssemblyInfo.cs
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\obj\Debug\net6.0\funfactgenerator.csproj.CoreCompileInputs.cache
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\bin\Debug\net6.0\funfactgenerator.exe
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\bin\Debug\net6.0\funfactgenerator.deps.json
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\bin\Debug\net6.0\funfactgenerator.runtimeconfig.json
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\bin\Debug\net6.0\funfactgenerator.dll
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\bin\Debug\net6.0\funfactgenerator.pdb
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\obj\Debug\net6.0\funfactgenerator.dll
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\obj\Debug\net6.0\refint\funfactgenerator.dll
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\obj\Debug\net6.0\funfactgenerator.pdb
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\obj\Debug\net6.0\funfactgenerator.genruntimeconfig.cache
+C:\Users\sgerw\source\repos\funfactgenerator\funfactgenerator\obj\Debug\net6.0\ref\funfactgenerator.dll
